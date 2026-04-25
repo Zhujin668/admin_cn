@@ -1,0 +1,1 @@
+log("Methods Loaded"),$('[data-label="GetParameter"]').each((e,t)=>{"true"!==(t=$(t)).attr("done")&&(t.attr("done","true"),t.find("p").html("<span>"),setHandler(t,function(){t.find("span").html(top.ParameterValue)}))});
