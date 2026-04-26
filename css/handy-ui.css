@@ -4522,7 +4522,7 @@ iframe.dialog-scroller body {
 }
 
 .tooltip-wrapper.with-arr.is-left::before {
-    left: -6px;
+    left: -5px;
 }
 
 .tooltip-wrapper.with-arr.is-left::after {
@@ -4532,7 +4532,7 @@ iframe.dialog-scroller body {
 }
 
 .tooltip-wrapper.with-arr.is-right::before {
-    right: -6px;
+    right: -5px;
 }
 
 .tooltip-wrapper.with-arr.is-right::after {
@@ -4542,7 +4542,7 @@ iframe.dialog-scroller body {
 }
 
 .tooltip-wrapper.with-arr.is-top::before {
-    top: -6px;
+    top: -5px;
     left: calc(50% - 6px);
 }
 
@@ -4554,7 +4554,7 @@ iframe.dialog-scroller body {
 }
 
 .tooltip-wrapper.with-arr.is-bottom::before {
-    bottom: -6px;
+    bottom: -5px;
     left: calc(50% - 6px);
 }
 
