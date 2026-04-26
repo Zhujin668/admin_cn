@@ -1211,7 +1211,7 @@ body::-webkit-scrollbar-thumb {
     background: var(--border-color);
     margin: 0 -3px 0 4px;
     border-radius: 8px;
-    padding: 0 6px;
+    padding: 0 6px 2px;
     color: var(--text-level-3);
     font-size: 12px;
     transition: background .3s, color .3s;
@@ -1288,7 +1288,7 @@ body::-webkit-scrollbar-thumb {
     padding: 0 5px;
     cursor: inherit;
     height: 30px;
-    line-height: 30px;
+    line-height: 29px;
     text-align: left;
     font-size: 14px;
 }
@@ -1735,7 +1735,7 @@ body::-webkit-scrollbar-thumb {
     background: transparent;
     border-radius: 12px;
     color: var(--text-level-3);
-    padding-top: 1px;
+    padding-bottom: 1px;
     font-size: 14px;
     transition: all .3s;
 }
@@ -2472,7 +2472,7 @@ body::-webkit-scrollbar-thumb {
 
 .upload-empty-wrapper.is-error {
     border: solid 2px var(--danger-color) !important;
-    border-radius: 17px 17px 0 17px !important;
+    border-radius: 17px !important;
     background: rgb(254, 233, 239, .3) !important;
 }
 
