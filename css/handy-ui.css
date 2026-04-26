@@ -615,6 +615,7 @@ body::-webkit-scrollbar-thumb {
 
 .btn-wrapper>strong {
     margin: 0 6px;
+    font-weight: normal;
 }
 
 .btn-wrapper.is-prefix>strong {
