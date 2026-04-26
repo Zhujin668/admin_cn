@@ -6,3 +6,4 @@ if (!(loaded && loaded.length > 0)) {
     $.getScript('https://cdn.jsdelivr.net/gh/Zhujin668/admin_cn@main/scripts/common.js')
 }
 
+console.log(1)
