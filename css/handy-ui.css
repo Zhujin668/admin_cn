@@ -2189,7 +2189,7 @@ body::-webkit-scrollbar-thumb {
 
 .grid-wrapper {
     overflow: hidden;
-    padding-bottom: 10px;
+    padding-bottom: 0;
 }
 
 .grid-page-wrapper {
